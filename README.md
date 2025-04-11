@@ -62,7 +62,5 @@ python inference.py --vis_dir PATH_TO_VIS --ir_dir PATH_TO_IR --model_path PATH_
 
 ## 贡献者
 
-本项目由以下两位完成：
-
 * [T-Auto](https://github.com/T-Auto)
 * [DawnMoon2333](https://github.com/DawnMoon2333/)
