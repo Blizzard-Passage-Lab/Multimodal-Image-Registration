@@ -1,4 +1,4 @@
-# 端到端多模态图像配准CNN
+# 端到端多模态图像配准CNN神经网络
 
 [[Englishi]](README.md)
 
