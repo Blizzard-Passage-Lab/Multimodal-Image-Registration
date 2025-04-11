@@ -1,5 +1,6 @@
 # End-to-End Multi-Modal Image Registration CNN
-[[Englishi]](README.md)[[简体中文]](README_zh.md)
+[[Englishi]](README.md)✅
+[[简体中文]](README_zh.md)
 ## Project Introduction
 
 This project can be used to create pixel-level aligned multi-modal image pairs for training multi-modal models.
